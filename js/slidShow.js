@@ -1,6 +1,12 @@
 let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
+  "https://github.com/iliketaiaki/SlidShow/blob/main/S__288423938.jpg",
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__288423940.jpg"
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__288423941.jpg"
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__300384262.jpg"
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__300384263.jpg"
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__300384264.jpg"
 "https://www.waseda.jp/top/assets/uploads/2014/03/hidemaro-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/maejima-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/hatoyama-360x270.jpg",
@@ -24,6 +30,7 @@ const url = [
 "https://www.waseda.jp/top/assets/uploads/2014/03/okujima-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2014/03/shirai-360x270.jpg",
 "https://www.waseda.jp/top/assets/uploads/2018/12/kamata.jpg"
+"https://github.com/iliketaiaki/SlidShow/blob/main/S__300384265.jpg"
 ];
 
 function left() {
