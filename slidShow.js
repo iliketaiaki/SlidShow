@@ -8,6 +8,7 @@ const url = [
 "https://raw.githubusercontent.com/iliketaiaki/SlidShow/main/pic/S__300384264.jpg"
 "hhttps://raw.githubusercontent.com/iliketaiaki/SlidShow/main/pic/S__300384265.jpg"
 "https://raw.githubusercontent.com/iliketaiaki/SlidShow/main/pic/%E9%A6%AC%E3%81%AB%E9%A3%9F%E3%82%8F%E3%82%8C%E3%82%8BS__339156994.jpg",
+
 ];
 
 function left() {
