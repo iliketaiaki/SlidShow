@@ -33,7 +33,7 @@ function autoPlay() {
   right();
   timer = setTimeout(function() {
     autoPlay();
-  }, 200);
+  }, 500);
 }
 
 function play() {
